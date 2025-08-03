@@ -3,7 +3,7 @@
 Pharma Shop Stock and Billing System (C Project)
 ================================================
 
-🎯 Objective:
+Objective:
 -------------
 This is a simple console-based management system for a pharmaceutical shop. It allows users to:
 
@@ -14,14 +14,14 @@ This is a simple console-based management system for a pharmaceutical shop. It a
 - View reports (stock, daily bills, search)
 - Display shop info (logo, name, address)
 
-👨‍💻 Technologies Used:
+Technologies Used:
 ------------------------
 - Language: C (GCC compatible)
 - File I/O for data persistence
 - Structs for data models
 - Modular code with header and source files
 
-📁 Project Folder Structure:
+Project Folder Structure:
 -----------------------------
 /pharma_project/
 ├── main.c
@@ -40,7 +40,7 @@ This is a simple console-based management system for a pharmaceutical shop. It a
 ├── README.txt // This file
 
 
-🛠️ Compilation Instructions:
+Compilation Instructions:
 -----------------------------
 Make sure you're in the `pharma_project` directory, then compile all `.c` files together using:
 
