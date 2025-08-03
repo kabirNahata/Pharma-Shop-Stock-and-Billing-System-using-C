@@ -24,8 +24,8 @@ Technologies Used:
 Project Folder Structure:
 -----------------------------
 /pharma_project/
-├── main.c
-├── login.c / login.h
+├── main.c\n
+├── login.c / login.h\n
 ├── pharma.c / pharma.h
 ├── stock.c / stock.h
 ├── billing.c / billing.h
