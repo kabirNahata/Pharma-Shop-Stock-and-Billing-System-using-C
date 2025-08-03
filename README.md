@@ -48,5 +48,5 @@ gcc main.c login.c pharma.c stock.c billing.c logs.c report.c -o pharma_app
 
 To run the app:
 
-./pharma_app   # On Linux/Mac
+./pharma_app   # On Linux/Mac\n
 pharma_app.exe # On Windows
