@@ -26,17 +26,17 @@ Project Folder Structure:
 /pharma_project/
 ├── main.c<br />
 ├── login.c / login.h<br />
-├── pharma.c / pharma.h
-├── stock.c / stock.h
-├── billing.c / billing.h
-├── logs.c / logs.h
-├── report.c / report.h
-├── structs.h
-├── users.txt // Pre-added users
-├── stock.txt // Medicine inventory
-├── bill.txt // Billing history
-├── logs.txt // Logs user actions
-├── pharma_info.txt // Shop info (name, address, logo)
+├── pharma.c / pharma.h<br />
+├── stock.c / stock.h<br />
+├── billing.c / billing.h<br />
+├── logs.c / logs.h<br />
+├── report.c / report.h<br />
+├── structs.h<br />
+├── users.txt // Pre-added users<br />
+├── stock.txt // Medicine inventory<br />
+├── bill.txt // Billing history<br />
+├── logs.txt // Logs user actions<br />
+├── pharma_info.txt // Shop info (name, address, logo)<br />
 ├── README.txt // This file
 
 
@@ -48,5 +48,5 @@ gcc main.c login.c pharma.c stock.c billing.c logs.c report.c -o pharma_app
 
 To run the app:
 
-./pharma_app   # On Linux/Mac
+./pharma_app   # On Linux/Mac<br />
 pharma_app.exe # On Windows
